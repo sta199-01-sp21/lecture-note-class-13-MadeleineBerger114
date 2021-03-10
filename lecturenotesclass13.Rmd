@@ -106,6 +106,8 @@ as the "best guess", or estimate, for the population parameter.
 Suppose we were interested in the population mean. What would be natural
 point estimate to use?
 
+the statistic \bar{x}
+
 
 | Quantity           | Parameter  | Statistic   |
 |--------------------|------------|-------------|
@@ -117,6 +119,13 @@ point estimate to use?
 
 
 What is the downside to using point estimates?
+
+Game: guess how old Jacob Smith is? 
+my guess: 32
+interval: 25-35 
+true age: 30, almost 31 
+
+Downside to using point estimates: tradeoff between accuracy and precision. Unlikely to be correct with one point estimate - Intervals make it more likely to capture correct value. 
 
 ## Confidence intervals
 
