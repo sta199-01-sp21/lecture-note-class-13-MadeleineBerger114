@@ -1,7 +1,7 @@
 ---
 title: "Simulation-based inference - confidence intervals"
 author: "Madeleine Berger"
-date: "March 3, 2021"
+date: "March 10, 2021"
 output: html_document
 editor_options: 
   chunk_output_type: console
@@ -423,7 +423,7 @@ visualize(boot_prop2) +
 
 
 Give an interpretation of your result.
-
+The vast majority of the count falls within the 90% confidence interval, which likely indicates that many different dosages of the treatment lead to survival. 
 
 # References
 
